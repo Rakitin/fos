@@ -3,7 +3,7 @@ org 0x7C00
 	jmp boot
 
 reboot_msg db "Press any key...", 13, 10, 0
-boot_msg db "Booting FOS...", 13, 10, 0
+boot_msg db "Booting...", 13, 10, 0
 
 disk_id db 0
 
