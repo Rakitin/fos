@@ -1,0 +1,1 @@
+qemu-system-i386 -fda disk.img -boot a -S -s
